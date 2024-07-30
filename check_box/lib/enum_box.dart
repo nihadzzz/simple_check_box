@@ -1,0 +1,4 @@
+enum EnumBox {
+  selected,
+  notSelected
+}
